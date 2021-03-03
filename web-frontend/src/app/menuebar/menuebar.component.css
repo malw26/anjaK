@@ -1,4 +1,9 @@
 .imglogo{
-    width: 50px;
-    height: 50px;
+    width: 120px;
+    height: 120px;
+}
+.myDiv{
+    width: auto;
+    height: 120px;
+    background-color: blueviolet;
 }
