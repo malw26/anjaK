@@ -1,0 +1,40 @@
+.imgLogo{
+    min-width: 400px;
+    height: 400px;
+    float: left;
+}
+.kontaktDiv{
+    padding-top: 120px;
+    display: inline-block;
+    align-content: center;
+    margin-left: 70px;
+    vertical-align:middle;
+}
+.textP{
+    display: inline-block;
+    padding-left: 50px;
+    font-size: 20px;
+}
+.textP1{
+    display: inline-block;
+    padding-left: 190px;
+    font-size: 20px;
+}
+.textP2{
+    display: inline-block;
+    padding-left: 120px;
+    font-size: 20px;
+}
+.textP3{
+    display: inline-block;
+    padding-left: 130px;
+    font-size: 20px;
+}
+.textP4{
+    display: inline-block;
+    padding-left: 112px;
+    font-size: 20px;
+}
+.textA{
+    font-size: 20px;
+}
