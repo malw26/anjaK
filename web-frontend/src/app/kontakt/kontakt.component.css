@@ -10,31 +10,31 @@
     margin-left: 70px;
     vertical-align:middle;
 }
-.textP{
-    display: inline-block;
-    padding-left: 50px;
-    font-size: 20px;
-}
 .textP1{
     display: inline-block;
     padding-left: 190px;
     font-size: 20px;
+    color: #9540ad;
 }
 .textP2{
     display: inline-block;
     padding-left: 120px;
     font-size: 20px;
+    color: #9540ad;
 }
 .textP3{
     display: inline-block;
     padding-left: 130px;
     font-size: 20px;
+    color: #9540ad;
 }
 .textP4{
     display: inline-block;
     padding-left: 112px;
     font-size: 20px;
+    color: #9540ad;
 }
 .textA{
     font-size: 20px;
+    color: #9540ad;
 }
