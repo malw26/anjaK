@@ -1,3 +1,2 @@
 # anjaK
-Website
-Preisliste Wellness-Massagen Anja Kretschmer							
+Website Wellness-Massagen Anja Kretschmer							
