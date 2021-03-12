@@ -44,3 +44,11 @@
     text-align: left;
     color: #9540ad;
 }
+.angebot{
+    background-color: #EFE3F3;
+    border-radius: 6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 24px;
+    box-shadow: 1px 1px rgb(177, 173, 173);
+}
