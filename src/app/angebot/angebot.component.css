@@ -4,6 +4,8 @@
 .acc2{
     background-color:#EFE3F3;
     color: #9540ad;
+    
+
 }
 .taH{
     font-family:Arial, Helvetica, sans-serif;
@@ -52,3 +54,4 @@
     padding-left: 24px;
     box-shadow: 1px 1px rgb(177, 173, 173);
 }
+::ng-deep .mat-expansion-indicator::after, .mat-expansion-panel-header-description { color: #9540ad;}

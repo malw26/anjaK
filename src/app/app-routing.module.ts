@@ -7,7 +7,12 @@ import {KontaktComponent} from './kontakt/kontakt.component';
 import { ImpressumComponent} from './impressum/impressum.component';
 
 const routes: Routes = [
- {path:"",
+  {
+    path:"defaultsite",
+   component:HomeComponent
+ },
+ {
+   path:"",
   component:HomeComponent
 },
 {path:"Home",
